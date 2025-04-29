@@ -6,7 +6,7 @@
 # API_KEY = os.getenv("API_KEY")
 # DEBUG = os.getenv("DEBUG", "False").lower() == "true"
 
-HOST = "mysql.statds.com"
+HOST = "srv1760.hstgr.io"
 PORT = "3306"
 USER = "u705997331_root"
 PASSWORD = "dwiC@NT1K!"
