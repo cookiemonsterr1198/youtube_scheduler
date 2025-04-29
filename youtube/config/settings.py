@@ -8,9 +8,9 @@
 
 HOST = "127.0.0.1"
 PORT = "3306"
-USER = "root"
-PASSWORD = ""
-DATABASE = "socmed_db"
+USER = "u705997331_root"
+PASSWORD = "dwiC@NT1K!"
+DATABASE = "u705997331_socmed_db"
 
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
